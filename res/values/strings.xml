@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CEED</string>
+    <string name="queen">Queen</string>
+    <string name="bishop">Bishop</string>
+    <string name="rook">Rook</string>
+    <string name="knight">Knight</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.CEED" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+    </style>
+
+</resources>
